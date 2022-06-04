@@ -15,3 +15,10 @@ BLOOD AVAILABILITY
 
 ADMIN_LOGIN.PHP
 ![h_login](https://user-images.githubusercontent.com/56357173/172017664-eae5f3d5-c48c-4e62-879c-1b25ad2e6d93.jpg)
+
+ADMIN_REGISTER.PHP
+![ADMIN_REG](https://user-images.githubusercontent.com/56357173/172020777-7bbbfe36-6a78-4d8c-9cf0-61c796a897ac.jpg)
+
+WELCOME ADMIN
+![WELCOME_ADMIN](https://user-images.githubusercontent.com/56357173/172020785-9d67ed42-d67a-4657-9c1f-e03d145fff64.jpg)
+
