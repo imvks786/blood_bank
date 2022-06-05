@@ -24,3 +24,6 @@ Landing page for admin or staff.
 
 Now the admin can approved the requests from here.
 ![reuqest](https://user-images.githubusercontent.com/56357173/172038632-7014823e-ee2b-42ed-8b55-60dbb7e6566d.jpg)
+
+Page for add Blood Details to Blood Bank.
+![add](https://user-images.githubusercontent.com/56357173/172040008-d3f05a34-01f1-4d97-90c3-46bd204ca42d.jpg)
