@@ -9,7 +9,8 @@ USER_REGISTRATION.PHP
 USER_LOGIN.PHP
 ![user_login](https://user-images.githubusercontent.com/56357173/172016460-9dcf3c3f-3fea-4ed7-b78c-ea279256110d.jpg)
 
-
+BLOOD AVAILABILITY
+![BLOOD AVAIL](https://user-images.githubusercontent.com/56357173/172038681-b8884974-e763-4a9b-9111-4622dd9565af.jpg)
 
 ADMIN_LOGIN.PHP
 ![h_login](https://user-images.githubusercontent.com/56357173/172017664-eae5f3d5-c48c-4e62-879c-1b25ad2e6d93.jpg)
@@ -20,3 +21,5 @@ ADMIN_REGISTER.PHP
 WELCOME ADMIN
 ![WELCOME_ADMIN](https://user-images.githubusercontent.com/56357173/172020785-9d67ed42-d67a-4657-9c1f-e03d145fff64.jpg)
 
+USER REQUESTS
+![reuqest](https://user-images.githubusercontent.com/56357173/172038632-7014823e-ee2b-42ed-8b55-60dbb7e6566d.jpg)
