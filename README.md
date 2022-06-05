@@ -27,3 +27,6 @@ Now the admin can approved the requests from here.
 
 Page for add Blood Details to Blood Bank.
 ![add](https://user-images.githubusercontent.com/56357173/172040008-d3f05a34-01f1-4d97-90c3-46bd204ca42d.jpg)
+
+Reuest Page.
+![{D6D91AA0-0D6D-464A-9246-B02456EBB02D} png](https://user-images.githubusercontent.com/56357173/172040651-befa1a0d-fcbf-485a-90bc-e32d92141f4c.jpg)
